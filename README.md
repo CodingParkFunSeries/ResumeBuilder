@@ -14,10 +14,10 @@ Scope of the problem - User should be able to create Resume.
 ### DAY 1
 
 #### Task 1 
-Write down the possible features in attendance management system (AMS). Think out of box for any possible feature. 
+Write down the possible features in Resume Builder. Think out of box for any possible feature. 
 
 ###### Detailed steps :
-1. Clone the AMS Github repo    
+1. Clone the Resume builder Github repo    
 ```
 git clone https://github.com/CodingParkFunSeries/ResumeBuilder.git
 ```
@@ -25,7 +25,7 @@ git clone https://github.com/CodingParkFunSeries/ResumeBuilder.git
 ```
 git checkout -b users_ajay109458_createFeatureSuggestion
 ```
-3. Now there is a FeatureSuggestion folder create an md file in format `<your name>.md` ( learn to write md file) about possible features in the attendance management system. 
+3. Now there is a FeatureSuggestion folder create an md file in format `<your name>.md` ( learn to write md file) about possible features in the resume builder. 
 4. Commit and push you changes and raise a PR.
 ```
 git add . 
@@ -52,7 +52,7 @@ Flow diagrams of the different flow in the application.
 ### DAY 3 - Day 6
 
 #### Task - Coding 
-- Application should not consit of hard coded configuration. E.g. AMS can support any other school, new classroom, new student. 
+- Application should not consit of hard coded configuration. 
 - Naming convention should be followed. Every variable, method and class should be properly named.  
 - Proper documenation for every contribution towards the project. 
 - Documenation should mention the resources for learning the technologies that you have used in application. 
