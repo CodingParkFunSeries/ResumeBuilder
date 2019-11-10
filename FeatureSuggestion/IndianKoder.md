@@ -14,3 +14,5 @@
 	**5)Process keyed details and preview in chosen Resume Template**
 	**6)Option to edit and save in different formats(.doc,.pdf)**
 	
+
+*Please feel free to fork and add any features you think worth of. Your contributions are valuable!!!*
